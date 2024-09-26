@@ -59,3 +59,4 @@ D:\Hackathon\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\scopedcss\bu
 D:\Hackathon\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\scopedcss\projectbundle\MyMvcApp.bundle.scp.css
 D:\Hackathon\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\MyMvcApp.genruntimeconfig.cache
 D:\Hackathon\MyMvcApp-Contact-Database-Application\obj\Debug\net8.0\ref\MyMvcApp.dll
+D:\Hackathon\MyMvcApp-Contact-Database-Application\bin\Debug\net8.0\deploy.parameters.json
